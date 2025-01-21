@@ -40,4 +40,6 @@ printPattern(n);
 333333333333333333333333333333
 44444444444444444444444444444444
 this is ramya
-this is rajasekar 
+this is rajasekar
+this is raj
+
